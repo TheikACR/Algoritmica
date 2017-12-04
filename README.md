@@ -12,3 +12,4 @@ La carpeta Practica1 icluye para cada uno de los algoritmos:
 - Imágenes de la eficiencia en una gráfica
 - Un fichero run.sh para probar la eficiencia
 - ficheros.dat con los resultados de las pruebas
+- PDFs con el proceso guiado
