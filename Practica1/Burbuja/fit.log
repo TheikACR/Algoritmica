@@ -1,0 +1,24 @@
+
+
+*******************************************************************************
+Fri Feb 24 19:17:15 2017
+
+
+FIT:    data read from "time_mejor.dat"
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+
+
+*******************************************************************************
+Fri Feb 24 19:17:22 2017
+
+
+FIT:    data read from "time_mejor.dat"
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
