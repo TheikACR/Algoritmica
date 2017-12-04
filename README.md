@@ -15,7 +15,7 @@ La carpeta Practica1 icluye para cada uno de los algoritmos:
 - PDFs con el proceso guiado
 
 ## Práctica 2
-Implementar distintos algoritmos Divide y Vencerás y calcular sus eficiencias:
+Implementar distintos algoritmos Divide y Vencerás y calcular sus eficiencias. El programa contiene el código fuente, y los run.sh para probarlos.
 
 ### Ejercicio 1
 Máximo y Mínimo: Dado un conjunto de enteros diseñar un algoritmo  DyV para encontrar el máximo y el mínimo. Para ello implementar un programa que genere un vector con un determinado número de enteros y obtener el máximo y mínimo de este conjunto. Para ello debéis implementar la función: pair<int ,int> Max_Min(const vector<int> & v); Obtener la eficiencia teórica y empírica del algoritmo.
@@ -25,7 +25,8 @@ Moda de un conjunto de enteros Dado un conjunto de enteros diseñar un algoritmo
 - IDEA.- Definido un elemento pivote, dividir el conjunto en tres  conjuntos:
 - 1. Conjuntos de elementos menores y diferentes al pivote. Este conjunto se almacena en Heteregoneos.
 - 2. Conjuntos de elementos igual al pivote. Este conjunto se almacena en Homogeneos
-- 3. Conjunto de elementos mayores y diferentes al pivote. Este conjunto se almacena en Heteregoneos. 
+- 3. Conjunto de elementos mayores y diferentes al pivote. Este conjunto se almacena en Heteregoneos.
+
 Con estas definiciones los pasos a seguir son:
 - 1. Sea He el conjunto en heterogeneos de mayor cardinalidad (el conjunto más grande).
 - 2. Sea Ho el conjunto de homogeneos de mayor cardinalidad (el conjunto más grande) 
