@@ -1,4 +1,6 @@
-# Algoritmica
+# Algorítmica
+
+## Prácticas de la asignatura Algorítmica en la UGR
 
 ## Práctica 1
 Calcular la eficiencia teórica, empírica y realizar el ajuste de los algoritmos:
